@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="59638d58-28bd-41d8-9a34-4c7fe95d9642" name="Default Changelist" comment="" />
+    <list default="true" id="43ffd57e-6c2c-4bd3-aac7-9248997ca023" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lab 7.23/Lab 7.23.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab 11.6.1/lab 11.6.1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TejeraSosa_p1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TejeraSosa_p1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TejeraSosa_p1/out/production/TejeraSosa_p1/CAI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TejeraSosa_p1/src/CAI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TejeraSosa_p2/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/TejeraSosa_p2/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/TejeraSosa_p2/SavingsAccount.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SavingsAccount.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,7 +27,14 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1SPabwteYDNNRXKLmZ5bIA4yCK1" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1T5OiyzwKszcw9wXxTfSBMbVfkw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -47,12 +66,23 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="59638d58-28bd-41d8-9a34-4c7fe95d9642" name="Default Changelist" comment="" />
-      <created>1571467759165</created>
+      <changelist id="43ffd57e-6c2c-4bd3-aac7-9248997ca023" name="Default Changelist" comment="" />
+      <created>1572746620860</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1571467759165</updated>
+      <updated>1572746620860</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
